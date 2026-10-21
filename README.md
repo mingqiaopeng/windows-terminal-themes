@@ -96,8 +96,8 @@
 要求：Windows 10/11，已安装 Windows Terminal（Store 版、Preview 版或解压版均可）。
 
 ```powershell
-git clone https://github.com/mingqiaopeng/vscode-themes-for-windows-terminal.git
-cd vscode-themes-for-windows-terminal
+git clone https://github.com/mingqiaopeng/windows-terminal-themes.git
+cd windows-terminal-themes
 powershell -ExecutionPolicy Bypass -File .\install.ps1
 ```
 
