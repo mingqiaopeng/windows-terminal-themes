@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" role="img" aria-label="Ayu Light terminal preview">
+  <rect width="720" height="360" fill="#f8f9fa"/>
+  <rect width="720" height="40" fill="#ecedee"/>
+  <circle cx="22" cy="20" r="6" fill="#f06b6c"/>
+  <circle cx="42" cy="20" r="6" fill="#e7a100"/>
+  <circle cx="62" cy="20" r="6" fill="#6cbf43"/>
+  <text x="86" y="25" fill="#5c6166" fill-opacity="0.86" font-family="'Cascadia Code',Consolas,monospace" font-size="13">Ayu Light — Windows Terminal</text>
+  <g font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="15">
+    <text x="26" y="82"><tspan fill="#6cbf43">PS C:\dev&gt;</tspan><tspan fill="#5c6166"> git status</tspan></text>
+    <text x="26" y="111"><tspan fill="#686868">On branch main</tspan></text>
+    <text x="26" y="140"><tspan fill="#6cbf43">✓</tspan><tspan fill="#5c6166"> build complete</tspan><tspan fill="#686868"> in 1.24s</tspan></text>
+    <text x="26" y="169"><tspan fill="#21a1e2">info</tspan><tspan fill="#5c6166">  watching for changes...</tspan></text>
+    <text x="26" y="198"><tspan fill="#e7a100">warn</tspan><tspan fill="#5c6166">  unused variable </tspan><tspan fill="#a176cb">'x'</tspan></text>
+    <text x="26" y="227"><tspan fill="#f06b6c">error</tspan><tspan fill="#5c6166">  TS2304: Cannot find name </tspan><tspan fill="#4abc96">'foo'</tspan><tspan fill="#5c6166">.</tspan></text>
+  </g>
+    <rect x="12" y="298" width="40" height="30" rx="4" fill="#000000" stroke="#5c6166" stroke-opacity="0.12"/>
+    <rect x="56" y="298" width="40" height="30" rx="4" fill="#f06b6c" stroke="#5c6166" stroke-opacity="0.12"/>
+    <rect x="100" y="298" width="40" height="30" rx="4" fill="#6cbf43" stroke="#5c6166" stroke-opacity="0.12"/>
+    <rect x="144" y="298" width="40" height="30" rx="4" fill="#e7a100" stroke="#5c6166" stroke-opacity="0.12"/>
+    <rect x="188" y="298" width="40" height="30" rx="4" fill="#21a1e2" stroke="#5c6166" stroke-opacity="0.12"/>
+    <rect x="232" y="298" width="40" height="30" rx="4" fill="#a176cb" stroke="#5c6166" stroke-opacity="0.12"/>
+    <rect x="276" y="298" width="40" height="30" rx="4" fill="#4abc96" stroke="#5c6166" stroke-opacity="0.12"/>
+    <rect x="320" y="298" width="40" height="30" rx="4" fill="#c7c7c7" stroke="#5c6166" stroke-opacity="0.12"/>
+    <rect x="364" y="298" width="40" height="30" rx="4" fill="#686868" stroke="#5c6166" stroke-opacity="0.12"/>
+    <rect x="408" y="298" width="40" height="30" rx="4" fill="#f07171" stroke="#5c6166" stroke-opacity="0.12"/>
+    <rect x="452" y="298" width="40" height="30" rx="4" fill="#86b300" stroke="#5c6166" stroke-opacity="0.12"/>
+    <rect x="496" y="298" width="40" height="30" rx="4" fill="#eba400" stroke="#5c6166" stroke-opacity="0.12"/>
+    <rect x="540" y="298" width="40" height="30" rx="4" fill="#22a4e6" stroke="#5c6166" stroke-opacity="0.12"/>
+    <rect x="584" y="298" width="40" height="30" rx="4" fill="#a37acc" stroke="#5c6166" stroke-opacity="0.12"/>
+    <rect x="628" y="298" width="40" height="30" rx="4" fill="#4cbf99" stroke="#5c6166" stroke-opacity="0.12"/>
+    <rect x="672" y="298" width="40" height="30" rx="4" fill="#d1d1d1" stroke="#5c6166" stroke-opacity="0.12"/>
+</svg>

@@ -1,0 +1,12 @@
+# Local Windows Terminal backups
+*.bak-vscode-themes-*
+
+# Node.js
+node_modules/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Local tooling
+.playwright-mcp/
